@@ -1,12 +1,16 @@
 ### Hi! My name is Vidar 🤓
----
+
 📰👨🏻‍💻
-I am a front-end developer & graphic designer based in Norway.
-
-Editorial- and print design led me to front-end development where I strifes to achieve the skills needed to help editorial teams tell engaging stories in the digital media. 
-I am is passionate about design, technology the importance of quality journalism.
-
-
+- I am a front-end developer & graphic designer based in Norway.
+- Editorial- and print design led me to front-end development
+- My goal is to achieve the skills needed to help editorial teams tell engaging stories in the digital media.
+---
+### I am passionate about
+- 🎨 Design
+- 🖥 Technology
+- 🕹 Gadgets
+- ✏️ Journalism
+- 🤩 Legos
 
 <!--
 **heiltutanvidare/heiltutanvidare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
