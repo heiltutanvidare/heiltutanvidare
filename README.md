@@ -12,6 +12,11 @@
 - ✏️ Journalism
 - 🤩 Legos
 
+#### 📬 Reach out to me…
+…via [email](mailto:vusvol@icloud.com.com)
+…on [instagram](https://www.instagram.com/nokoheiltmakalaust/)
+…or on [my website](https://www.heiltutanvidare.no/)
+
 <!--
 **heiltutanvidare/heiltutanvidare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
