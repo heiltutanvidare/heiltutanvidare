@@ -1,10 +1,10 @@
-### Hi! My name is Vidar 🤓
+### Hi there, I'm Vidar 👋
 
 📰👨🏻‍💻
 - I am a front-end developer & graphic designer based in Norway.
 - Editorial- and print design led me to front-end development
 - My goal is to achieve the skills needed to help editorial teams tell engaging stories in the digital media.
----
+
 ### I am passionate about
 - 🎨 Design
 - 🖥 Technology
